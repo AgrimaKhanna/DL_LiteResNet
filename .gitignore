@@ -1,0 +1,9 @@
+__pycache__/
+data/
+.DS_Store
+summaries/
+plot.py
+venv/
+my_env/
+src/__pycache__/
+resnet_configs/
