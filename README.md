@@ -38,6 +38,5 @@ Run the following command, also replacing `<model_name>` with either `LiteResNet
 ```bash
 python main_cifar100.py --model <model_name>
 ```
-```
 
 Make sure to replace `<model_name>` with your actual model name when running the commands.
